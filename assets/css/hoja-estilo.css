@@ -1,0 +1,147 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /*background-color: #D4D9E3;*/
+}
+
+footer {
+    background-color: #2B2E39;
+    color: #D4D9E3;
+    text-align: center;
+    padding: 15px;
+    font-size: 25;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+}
+
+header{
+    background-color: #2B2E39;
+    color: #D4D9E3;
+    text-align: center;
+    padding: 25px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+
+.fuente {
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #2B2E39;
+}
+
+#menu{
+    background-color: #D4D9E3;
+}
+
+#menu ul li{
+    display: block;
+    float: left;
+    border: 2px solid #2B2E39;
+
+}
+
+#menu ul li a {
+    padding: 20px;
+    color: #2B2E39;
+    display: block;
+}
+
+#menu ul li a:hover{
+    background-color: #2B2E39;
+    color: #D4D9E3; 
+}
+
+#contenido{
+    padding: 20px;
+}
+
+#descripcion-bio {
+    font-size: 20px;
+    text-align: justify;
+    margin: 110px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    color: #2B2E39;
+    /*font-style: italic;
+    font-weight: bold;*/
+}
+
+#descripcion-in {
+    font-size: 50px;
+    text-align: center;
+    margin: 380px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    /*font-style: italic;*/
+    font-weight: bold;
+    color: #2B2E39;
+}
+
+.div-center {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: #D4D9E3;
+}
+
+/*
+#imagen-bio {
+    margin: 25px;
+    display: block;
+
+    margin-bottom: 10px;
+    width: 250px;
+
+    float: right;
+}*/
+
+#imagen-bio {
+
+    width: 250px;
+    float: right;
+
+    background-color: #2B2E39;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 22px;
+}
+
+.menu-vi {
+    margin: 75px;
+}
+
+.columna {
+    display: table-cell;
+    padding: 5px;
+}
+
+.titulo-vi {
+    font-size: 35px;
+    text-align: justify;
+    margin: 10px;
+    padding: 5px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    font-weight: bold;
+    color: #2B2E39;
+}
+
+.fuente-vi {
+    font-size: 20px;
+    text-align: justify;
+    margin: 10px;
+    padding: 5px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    color: #2B2E39;
+}
